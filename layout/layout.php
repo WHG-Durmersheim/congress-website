@@ -14,7 +14,10 @@
 </head>
 <body>
   <header>
-    <h1>Schule in der digitalen Dimension</h1>
+    <button id="menuBtn" class="header-button" type="button" onclick="toDo()">Menu</button>
+    <h1 class="small-display">Kongress</h1>
+    <h1 class="big-display">Schule in der digitalen Dimension</h1>
+    <button id="searchBtn" class="header-button" type="button" onclick="toDo()">Search</button>
   </header>
   <section id="main">
 
