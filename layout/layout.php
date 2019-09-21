@@ -14,11 +14,19 @@
 </head>
 <body>
   <header>
-    <button id="menuBtn" class="header-button" type="button" onclick="toDo()">Menu</button>
+    <button id="menuBtn" class="header-button" type="button" onclick="openMenu()">Men&uuml;</button>
     <h1 class="small-display">Kongress</h1>
     <h1 class="big-display">Schule in der digitalen Dimension</h1>
-    <button id="searchBtn" class="header-button" type="button" onclick="toDo()">Search</button>
+    <button id="searchBtn" class="header-button" type="button" onclick="toDo()">Suche</button>
   </header>
+  <div id="nav-bg"></div>
+  <nav>
+    <div id="nav-img">Ein Bild der Schule</div>
+    <a class="nav-link" href="/">Home</a>
+    <a class="nav-link" href="/pages/map">Karte</a>
+    <a class="nav-link" href="/pages/recordings">Aufnahmen</a>
+    <a class="nav-link" href="/pages/imprint">Impressum</a>
+  </nav>
   <section id="main">
 
 <?php if(isset($TPL->PageContent)) { include $TPL->PageContent; } ?>
