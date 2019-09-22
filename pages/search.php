@@ -8,7 +8,27 @@ if (!isset($TPL)) {
   exit;
 }
 ?>
-<h2>Suche</h2>
-<p>
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-</p>
+<h2>Ergebnisse f&uuml;r &bdquo;<span id="results-for"></span>&ldquo;</h2>
+<section id="results">
+  <a href="/">
+    <h2>Home</h2>
+    <p>Die Startseite dieser Webseite mit allgemeinen Informationen zum Kongress.</p>
+  </a>
+  <a href="/pages/map">
+    <h2>Karte</h2>
+    <p>Eine Karte mit Informationen, was wo zu finden ist.</p>
+  </a>
+  <a href="/pages/recordings">
+    <h2>Aufnamen</h2>
+    <p>Eine Seite mit Aufnahmen des Kongresses.</p>
+  </a>
+  <a href="/pages/imprint">
+    <h2>Impressum</h2>
+    <p>Das Impressum dieser Webseite</p>
+  </a>
+  <a href="/">
+    <h2>Testeintrag</h2>
+    <p>Eine kleine Beschreibung zum Eintrag.</p>
+  </a>
+</section>
+<script src="/js/search.min.js" async></script>
