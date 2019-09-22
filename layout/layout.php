@@ -14,10 +14,16 @@
 </head>
 <body>
   <header>
-    <button id="menuBtn" class="header-button" type="button" onclick="openMenu()">Men&uuml;</button>
-    <h1 class="small-display">Kongress</h1>
-    <h1 class="big-display">Schule in der digitalen Dimension</h1>
-    <button id="searchBtn" class="header-button" type="button" onclick="toDo()">Suche</button>
+    <div id="defaultHeader">
+      <button id="menuBtn" class="header-button" type="button" onclick="openMenu()">Men&uuml;</button>
+      <h1 class="small-display">Kongress</h1>
+      <h1 class="big-display">Schule in der digitalen Dimension</h1>
+      <button id="searchBtn" class="header-button" type="button" onclick="openSearch()">Suche</button>
+    </div>
+    <form id="searchHeader" action="/pages/search" autocomplete="off" class="hidden">
+      <input type="text" name="q" placeholder="Suche">
+      <button id="closeBtn" class="header-button" type="button" onclick="closeSearch()">Schlie&szlig;en</button>
+    </form>
   </header>
   <div id="nav-bg"></div>
   <nav>
