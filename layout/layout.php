@@ -29,9 +29,9 @@
   <nav>
     <div id="nav-img">Ein Bild der Schule</div>
     <a class="nav-link" href="/">Home</a>
-    <a class="nav-link" href="/pages/map">Karte</a>
-    <a class="nav-link" href="/pages/recordings">Aufnahmen</a>
-    <a class="nav-link" href="/pages/imprint">Impressum</a>
+    <a class="nav-link" href="/pages/map.php">Karte</a>
+    <a class="nav-link" href="/pages/recordings.php">Aufnahmen</a>
+    <a class="nav-link" href="/pages/imprint.php">Impressum</a>
   </nav>
   <section id="main">
 
