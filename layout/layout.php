@@ -20,7 +20,7 @@
       <h1 class="big-display">Schule in der digitalen Dimension</h1>
       <button id="searchBtn" class="header-button" type="button" onclick="openSearch()">Suche</button>
     </div>
-    <form id="searchHeader" action="/pages/search" autocomplete="off" class="hidden">
+    <form id="searchHeader" action="/pages/search.php" autocomplete="off" class="hidden">
       <input type="text" name="q" placeholder="Suche">
       <button id="closeBtn" class="header-button" type="button" onclick="closeSearch()">Schlie&szlig;en</button>
     </form>
