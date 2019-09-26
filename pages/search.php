@@ -14,15 +14,19 @@ if (!isset($TPL)) {
     <h2>Home</h2>
     <p>Die Startseite dieser Webseite mit allgemeinen Informationen zum Kongress.</p>
   </a>
-  <a href="/pages/map">
+  <a href="/pages/map.php">
     <h2>Karte</h2>
     <p>Eine Karte mit Informationen, was wo zu finden ist.</p>
   </a>
-  <a href="/pages/recordings">
+  <a href="/pages/recordings.php">
     <h2>Aufnamen</h2>
     <p>Eine Seite mit Aufnahmen des Kongresses.</p>
   </a>
-  <a href="/pages/imprint">
+  <a href="/pages/livestream.php">
+    <h2>Livestream</h2>
+    <p>Eine Seite mit dem Livestream des Kongresses.</p>
+  </a>
+  <a href="/pages/imprint.php">
     <h2>Impressum</h2>
     <p>Das Impressum dieser Webseite</p>
   </a>
