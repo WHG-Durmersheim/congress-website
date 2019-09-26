@@ -22,3 +22,7 @@ ErrorDocument 502 /error/502.php
 ErrorDocument 503 /error/503.php
 ErrorDocument 504 /error/504.php
 ErrorDocument 505 /error/505.php
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
