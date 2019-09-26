@@ -20,7 +20,7 @@
       <h1 class="big-display">Schule in der digitalen Dimension</h1>
       <button id="searchBtn" class="header-button" type="button" onclick="openSearch()">Suche</button>
     </div>
-    <form id="searchHeader" action="/pages/search.php" autocomplete="off" class="hidden">
+    <form id="searchHeader" action="/pages/search" autocomplete="off" class="hidden">
       <input type="text" name="q" placeholder="Suche">
       <button id="closeBtn" class="header-button" type="button" onclick="closeSearch()">Schlie&szlig;en</button>
     </form>
@@ -29,10 +29,10 @@
   <nav>
     <div id="nav-img">Ein Bild der Schule</div>
     <a class="nav-link" href="/">Home</a>
-    <a class="nav-link" href="/pages/map.php">Karte</a>
-    <a class="nav-link" href="/pages/recordings.php">Aufnahmen</a>
-    <a class="nav-link" href="/pages/livestream.php">Livestream</a>
-    <a class="nav-link" href="/pages/imprint.php">Impressum</a>
+    <a class="nav-link" href="/pages/map">Karte</a>
+    <a class="nav-link" href="/pages/recordings">Aufnahmen</a>
+    <a class="nav-link" href="/pages/livestream">Livestream</a>
+    <a class="nav-link" href="/pages/imprint">Impressum</a>
   </nav>
   <section id="main">
 
