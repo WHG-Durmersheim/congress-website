@@ -39,7 +39,6 @@
 <?php if(isset($TPL->PageContent)) { include $TPL->PageContent; } ?>
 
   </section>
-  <script src="/js/jquery.min.js"></script>
   <script src="/js/header.min.js" async></script>
 </body>
 </html>
