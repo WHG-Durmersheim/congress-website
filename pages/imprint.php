@@ -2,14 +2,15 @@
 require_once(($_SERVER['DOCUMENT_ROOT']).'/layout/PageLayout.php');
 if (!isset($TPL)) {
   $TPL = new PageLayout();
-  $TPL->PageTitle = 'Imprint';
+  $TPL->PageTitle = 'Impressum';
   $TPL->PageContent = __FILE__;
   include ($_SERVER['DOCUMENT_ROOT']).'/layout/layout.php';
   exit;
 }
 ?>
 <h2>Impressum</h2>
-<p>Diensteanbieter (§ 6 TDG und § 10 Abs. 2 MDStV)
+<p>
+Diensteanbieter (§ 6 TDG und § 10 Abs. 2 MDStV)
 Schulträger: Landkreis Rastatt
 Weißenburger Straße 42
 76448 Durmersheim

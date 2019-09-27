@@ -9,17 +9,17 @@ if (!isset($TPL)) {
 }
 ?>
 <style>
-.video {
-  width: calc(100vw - 32px);
-  height: calc(56vw - 32px);
-  background: #000;
-}
-@media only screen and (min-width: 720px) {
   .video {
-    width: 688px;
-    height: 387px;
+    width: calc(100vw - 32px);
+    height: calc(56vw - 32px);
+    background: #000;
   }
-}
+  @media only screen and (min-width: 720px) {
+    .video {
+      width: 688px;
+      height: 387px;
+    }
+  }
 </style>
 <h2>Aufnahmen</h2>
 <p>
