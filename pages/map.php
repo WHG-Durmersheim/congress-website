@@ -41,7 +41,7 @@ if (!isset($TPL)) {
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
-<h2>Viscom (Medieneinheiten)</h2>
+<h2>Visocom (Medieneinheiten)</h2>
 <p>
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
