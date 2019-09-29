@@ -8,6 +8,7 @@ if (!isset($TPL)) {
   exit;
 }
 ?>
+<style><?php include($_SERVER['DOCUMENT_ROOT']).'/css/search.min.css'; ?></style>
 <h2>Ergebnisse f&uuml;r &bdquo;<span id="results-for"></span>&ldquo;</h2>
 <section id="results">
   <a href="/">

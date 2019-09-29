@@ -8,19 +8,7 @@ if (!isset($TPL)) {
   exit;
 }
 ?>
-<style>
-  .video {
-    width: calc(100vw - 32px);
-    height: calc(56vw - 32px);
-    background: #000;
-  }
-  @media only screen and (min-width: 720px) {
-    .video {
-      width: 688px;
-      height: 387px;
-    }
-  }
-</style>
+<style><?php include($_SERVER['DOCUMENT_ROOT']).'/css/video.min.css'; ?></style>
 <h2>Aufnahmen</h2>
 <p>
   <iframe title="Livestream" class="video" src="https://www.youtube.com/embed/5_CpeZEiIFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
