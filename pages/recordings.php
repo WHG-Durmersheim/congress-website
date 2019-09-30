@@ -8,8 +8,29 @@ if (!isset($TPL)) {
   exit;
 }
 ?>
-<style><?php include($_SERVER['DOCUMENT_ROOT']).'/css/video.min.css'; ?></style>
+
+<link href="//vjs.zencdn.net/5.8/video-js.min.css" rel="stylesheet">
+    <script src="//vjs.zencdn.net/5.8/video.min.js"></script>
+<style>
+
+.video {
+  width: calc(100vw - 32px);
+  height: calc(56vw - 32px);
+  background: #000;
+}
+@media only screen and (min-width: 720px) {
+  .video {
+    width: 688px;
+    height: 387px;
+  }
+}
+</style>
 <h2>Aufnahmen</h2>
 <p>
-  <iframe title="Livestream" class="video" src="https://www.youtube.com/embed/5_CpeZEiIFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <video title="Livestream" id="player" class="video video-js vjs-default-skin" controls preload="none">
+    <source src="http://116.203.221.72:8080/hls/stream.m3u8" type="application/x-mpegURL" />
+  </video>
+</p>
+<p>
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
 </p>
