@@ -9,7 +9,12 @@ if (!isset($TPL)) {
 }
 ?>
 <h2>Karte</h2>
-<?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map.svg'; ?>
+<?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_0.svg'; ?>
+<?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_1.svg'; ?>
+<?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_2.svg'; ?>
+<button onclick="showFloor0()" type="button">Erdgeschoss</button>
+<button onclick="showFloor1()" type="button">Erster Stock</button>
+<button onclick="showFloor2()" type="button">Zweiter Stock</button>
 <h2>Aussteller</h2>
 <h2>Cornelsen</h2>
 <p>
@@ -46,3 +51,4 @@ if (!isset($TPL)) {
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
+<script src="/js/map.min.js" async></script>
