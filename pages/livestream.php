@@ -17,6 +17,7 @@ if (!isset($TPL)) {
     <source src="http://116.203.221.72:8080/hls/stream.m3u8" type="application/x-mpegURL" />
   </video>
 </p>
+<h2>Beschreibung</h2>
 <p>
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
 </p>
