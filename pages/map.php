@@ -9,7 +9,7 @@ if (!isset($TPL)) {
 }
 ?>
 <h2>Karte</h2>
-<img alt="Karte" src="/images/map.jpg">
+<?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map.svg'; ?>
 <h2>Aussteller</h2>
 <h2>Cornelsen</h2>
 <p>
