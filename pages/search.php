@@ -19,6 +19,10 @@ if (!isset($TPL)) {
     <h2>Karte</h2>
     <p>Eine Karte mit Informationen, was wo zu finden ist.</p>
   </a>
+  <a href="/pages/timeline.php">
+    <h2>Zeitplan</h2>
+    <p>Ein Zeitplan mit Informationen, was wann stattfindet.</p>
+  </a>
   <a href="/pages/recordings.php">
     <h2>Aufnamen</h2>
     <p>Eine Seite mit Aufnahmen des Kongresses.</p>

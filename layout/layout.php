@@ -35,11 +35,11 @@
     <a class="nav-link" href="/pages/livestream.php">Livestream</a>
     <a class="nav-link" href="/pages/imprint.php">Impressum</a>
   </nav>
-  <section id="main">
+  <main>
 
 <?php if(isset($TPL->PageContent)) { include $TPL->PageContent; } ?>
 
-  </section>
+</main>
   <script src="/js/header.min.js" async></script>
 </body>
 </html>
