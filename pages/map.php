@@ -16,7 +16,54 @@ if (!isset($TPL)) {
 <button onclick="showFloor1()" type="button">Erster Stock</button>
 <button onclick="showFloor2()" type="button">Zweiter Stock</button>
 <h2>Aussteller</h2>
+<h2>Technische Umsetzung</h2>
+<h2>co.Tec</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>heinekingmedia</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>OctoGate</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>RBI Rittershofer</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>St&uuml;ber Systems Berlin</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>Untis BW</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>Visucom</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>Didaktik und Unterricht</h2>
 <h2>Cornelsen</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>Flip the Classroom</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>Hochschule der Medien Stuttgart</h2>
 <p>
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
@@ -26,27 +73,38 @@ if (!isset($TPL)) {
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
-<h2>Mediengestützte Didaktik</h2>
+<h2>Lehrer berichten</h2>
 <p>
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
-<h2>RBI Rittershofer GmbH (Medieneinheiten)</h2>
+<h2>Medienzentrum Mittelbaden SESAM</h2>
 <p>
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
-<h2>Sch&uuml;lermedienmentoren</h2>
+<h2>Konzeption und Umsetzung</h2>
+<h2>Arbeitsgruppe &bdquo;Bildung im digitalen Zeitalter&rdquo;</h2>
 <p>
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
-<h2>St&uuml;ber Systems GmbH (EZCast)</h2>
+<h2>LRA Rastatt</h2>
 <p>
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
-<h2>Visocom (Medieneinheiten)</h2>
+<h2>Medienzentrum Mittelbaden MEP</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>Schulleitung</h2>
+<p>
+  Raum: 000<br>
+  Eine kleine Beschreibung des Ausstellers.
+</p>
+<h2>Studienseminar Karlsruhe</h2>
 <p>
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
