@@ -16,7 +16,7 @@ if (!isset($TPL)) {
 <button onclick="showFloor1()" type="button">Erster Stock</button>
 <button onclick="showFloor2()" type="button">Zweiter Stock</button>
 <h2>Aussteller</h2>
-<h2>Technische Umsetzung</h2>
+<h2><br>Technische Umsetzung</h2>
 <h2>co.Tec</h2>
 <p>
   Raum: 000<br>
@@ -52,7 +52,7 @@ if (!isset($TPL)) {
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
-<h2>Didaktik und Unterricht</h2>
+<h2><br>Didaktik und Unterricht</h2>
 <h2>Cornelsen</h2>
 <p>
   Raum: 000<br>
@@ -83,7 +83,7 @@ if (!isset($TPL)) {
   Raum: 000<br>
   Eine kleine Beschreibung des Ausstellers.
 </p>
-<h2>Konzeption und Umsetzung</h2>
+<h2><br>Konzeption und Umsetzung</h2>
 <h2>Arbeitsgruppe &bdquo;Bildung im digitalen Zeitalter&rdquo;</h2>
 <p>
   Raum: 000<br>
