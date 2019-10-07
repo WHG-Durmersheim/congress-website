@@ -1,9 +1,19 @@
+.small-image {
+  display: block;
+  max-width: 33%;
+  margin: .42em auto .42em;
+}
+.top {
+  text-align: center;
+}
 .big-image {
   display: block;
-  max-width: 50%;
-  margin: auto;
+  border-radius: 4px;
+  margin: 1.68em auto .42em;
 }
 .caption {
+  display: block;
+  margin: 0;
   color: #767676;
   font-size: 12px;
   text-align: center;
