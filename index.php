@@ -9,7 +9,7 @@ if (!isset($TPL)) {
 }
 ?>
 <style><?php include($_SERVER['DOCUMENT_ROOT']).'/css/home.min.css'; ?></style>
-<img class="small-image" alt="Zwei Personen sitzen auf einem Stapel von B&uuml;chern" src="/images/online_education.svg">
+<img class="small-image" alt="Das Logo der Schule" src="/images/whg_logo.jpg">
 <h2 class="top">Wilhelm-Hausenstein-Gymnasium | Schule in der digitalen Dimension</h2>
 <img class="big-image" alt="Eine Person Tablet mit einem Stift" src="/images/home_first.jpg">
 <h2>Der Thementag</h2>
