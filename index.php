@@ -10,10 +10,8 @@ if (!isset($TPL)) {
 ?>
 <style><?php include($_SERVER['DOCUMENT_ROOT']).'/css/home.min.css'; ?></style>
 <img class="small-image" alt="Zwei Personen sitzen auf einem Stapel von B&uuml;chern" src="/images/online_education.svg">
-<a class="caption" href="https://isometric.online/license/">Bild von Isometric</a>
 <h2 class="top">Wilhelm-Hausenstein-Gymnasium | Schule in der digitalen Dimension</h2>
 <img class="big-image" alt="Eine Person Tablet mit einem Stift" src="/images/home_first.jpg">
-<a class="caption" href="https://unsplash.com/photos/7pT-T5YLxg4">Bild von Andres Urena auf Unsplash</a>
 <h2>Der Thementag</h2>
 <p>
   Bei dieser Veranstaltung haben Sie die Gelegenheit, alle Facetten, die bei der Digitalisierung in der Schule eine Rolle spielen,
@@ -21,9 +19,6 @@ if (!isset($TPL)) {
   Vertreter von maßgeblichen Institutionen, Verlagen sowie Hard- und Software-L&ouml;sungen werden Ihnen auf Ihre Fragen Antworten geben und Didaktiker zeigen ihre Unterrichtsl&ouml;sungen.
 </p>
 <img class="big-image" alt="Eine Bild von der Schule" src="/images/home_second.jpg">
-<p class="caption">
-  <a class="caption" href="http://www.whg-durmersheim.de/">Bild von der Schulinternetseite</a>
-</p>
 <h2>Das Wilhelm-Hausenstein-Gymnasium</h2>
 <p>
   Das Wilhelm-Hausenstein-Gymnasium ist ein allgemeinbildendes Gymnasium,
@@ -32,7 +27,6 @@ if (!isset($TPL)) {
   unsere Sch&uuml;lerinnen und Sch&uuml;ler auch auf ein erf&uuml;lltes und verantwortliches Leben in einer von Digitalisierung gepr&auml;gten Welt vorzubereiten.
 </p>
 <img class="big-image" alt="Eine Person erklärt einer anderen Person etwas auf einem Block vor zwei Laptops" src="/images/home_third.jpg">
-<a class="caption" href="https://unsplash.com/photos/5fNmWej4tAA">Bild von Helloquence auf Unsplash</a>
 <h2>Im Detail</h2>
 <p>
   Menschen denken nicht algorithmisch und Bildung ist nicht digital.
@@ -49,4 +43,9 @@ if (!isset($TPL)) {
   Auf dieser Grundlage soll ein Forum des Austauschs entstehen, das Chancen, Grenzen und Umsetzungsm&ouml;glichkeiten von digitalen Elementen im Bildungsprozess zum Thema hat.
   <br><br>
   Angesprochen werden sollen neben Kollegen und Schulleitungen vor allem auch politische Entscheidungstr&auml;ger und Schulverwaltungsmitglieder, die durch ihr Wirken wesentliche Weichenstellungen in der Bildungslandschaft vornehmen und Entwicklungsprozesse nachhaltig beeinflussen.
+</p>
+<p class="caption">
+  <br>Bilder von <a href="https://isometric.online/license/">Isometric</a>,
+  <a href="https://unsplash.com/photos/7pT-T5YLxg4">Andres Urena auf Unsplash</a>
+  und <a href="https://unsplash.com/photos/5fNmWej4tAA">Helloquence auf Unsplash</a>
 </p>
