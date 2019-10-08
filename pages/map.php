@@ -17,10 +17,11 @@ if (!isset($TPL)) {
 <button onclick="showFloor2()" type="button">Zweiter Stock</button>
 <h2>Aussteller</h2>
 <h2><br>Technische Umsetzung</h2>
+<hr>
 <h2>co.Tec</h2>
 <p>
   Raum: 000<br>
-  Office 365 für Schule/Lehrer/Schüler – Schullizenz
+  Office 365 f&uuml;r Schule/Lehrer/Sch&uuml;ler – Schullizenz
 </p>
 <h2>heinekingmedia</h2>
 <p>
@@ -30,23 +31,23 @@ if (!isset($TPL)) {
 <h2>OctoGate</h2>
 <p>
   Raum: 000<br>
-  WLAN-Lösung für Schulen
+  WLAN-L&ouml;sung f&uuml;r Schulen
 </p>
 <h2>RBI Rittershofer</h2>
 <p>
   Raum: 000<br>
-  Medienwägen für die Klassenzimmer und Konferenzen
+  Medienw&auml;gen f&uuml;r die Klassenzimmer und Konferenzen
 </p>
 <h2>St&uuml;ber Systems Berlin</h2>
 <p>
   Raum: 000<br>
-  Kabellose Bildschirmpräsentation mit EZ-Cast Pro2
+  Kabellose Bildschirmpr&auml;sentation mit EZ-Cast Pro2
 </p>
 <h2>Untis BW</h2>
 <p>
   Raum: 000<br>
   Stunden- und Vertretungsplanung.
-  Apps und Software für Vertretungsplan, Kommunikation und Dateientausch in Lerngruppen
+  Apps und Software f&uuml;r Vertretungsplan, Kommunikation und Dateientausch in Lerngruppen
 </p>
 <h2>Visucom</h2>
 <p>
@@ -54,15 +55,16 @@ if (!isset($TPL)) {
   Klassenzimmertechnik
 </p>
 <h2><br>Didaktik und Unterricht</h2>
+<hr>
 <h2>Cornelsen</h2>
 <p>
   Raum: 000<br>
-  Schulbücher und ihre digitalen Hilfsmittel für Unterrichtsvorbereitung und -durchführung
+  Schulb&uuml;cher und ihre digitalen Hilfsmittel f&uuml;r Unterrichtsvorbereitung und -durchf&uuml;hrung
 </p>
 <h2>Flip the Classroom</h2>
 <p>
   Raum: 000<br>
-  Einsatz und Erstellung von Erklärvideos im Unterricht
+  Einsatz und Erstellung von Erkl&auml;rvideos im Unterricht
 </p>
 <h2>Hochschule der Medien Stuttgart</h2>
 <p>
@@ -72,7 +74,7 @@ if (!isset($TPL)) {
 <h2>Klett</h2>
 <p>
   Raum: 000<br>
-  Schulbücher und ihre digitalen Hilfsmittel für Unterrichtsvorbereitung und -durchführung
+  Schulb&uuml;cher und ihre digitalen Hilfsmittel f&uuml;r Unterrichtsvorbereitung und -durchf&uuml;hrung
 </p>
 <h2>Lehrer berichten</h2>
 <p>
@@ -82,9 +84,10 @@ if (!isset($TPL)) {
 <h2>Medienzentrum Mittelbaden SESAM</h2>
 <p>
   Raum: 000<br>
-  Lehrfilme für den Unterricht zum Streamen, Downloaden und Teilen mit den Schülern
+  Lehrfilme f&uuml;r den Unterricht zum Streamen, Downloaden und Teilen mit den Sch&uuml;lern
 </p>
 <h2><br>Konzeption und Umsetzung</h2>
+<hr>
 <h2>Arbeitsgruppe &bdquo;Bildung im digitalen Zeitalter&rdquo;</h2>
 <p>
   Raum: 000<br>
@@ -100,7 +103,7 @@ if (!isset($TPL)) {
   Raum: 000<br>
   Inhalte und Erstellung eines Medienentwicklungsplans am Beispiel des WHGs.
   3D-Druck und VR.
-  Möglichkeiten im Unterricht und Expertise
+  M&ouml;glichkeiten im Unterricht und Expertise
 </p>
 <h2>Schulleitung</h2>
 <p>
@@ -110,6 +113,6 @@ if (!isset($TPL)) {
 <h2>Studienseminar Karlsruhe</h2>
 <p>
   Raum: 000<br>
-  Seminar für Ausbildung und Fortbildung der Lehrkräfte (Gymnasium)
+  Seminar f&uuml;r Ausbildung und Fortbildung der Lehrkr&auml;fte (Gymnasium)
 </p>
 <script src="/js/map.min.js" async></script>
