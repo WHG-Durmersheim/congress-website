@@ -33,11 +33,15 @@ if (!isset($TPL)) {
   </a>
   <a href="/pages/imprint.php">
     <h2>Impressum</h2>
-    <p>Das Impressum dieser Webseite</p>
+    <p>Das Impressum dieser Website</p>
+  </a>
+  <a href="/pages/privacy.php">
+    <h2>Datenschutzerklärung</h2>
+    <p>Die Datenschutzerklärung der Website</p>
   </a>
   <a href="/">
-    <h2>Testeintrag</h2>
-    <p>Eine kleine Beschreibung zum Eintrag.</p>
+    <h2>Home</h2>
+    <p>Die Hauptseite dieser Website</p>
   </a>
 </section>
 <script src="/js/search.min.js" async></script>
