@@ -1,6 +1,6 @@
-var floor0 = document.getElementById('floor0');
-var floor1 = document.getElementById('floor1');
-var floor2 = document.getElementById('floor2');
+const floor0 = document.getElementById('floor0');
+const floor1 = document.getElementById('floor1');
+const floor2 = document.getElementById('floor2');
 
 function showFloor0() {
   floor1.classList.add('hidden');

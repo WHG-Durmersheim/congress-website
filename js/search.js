@@ -1,17 +1,15 @@
 // Declare variables
-var query, filter, list, listItems, txtValue;
-query = getUrlParameter('q');
-filter = query.toUpperCase();
-list = document.getElementById('results');
-listItems = list.getElementsByTagName('a');
+const query = getUrlParameter('q');
+const filter = query.toUpperCase();
+const list = document.getElementById('results');
+const listItems = list.getElementsByTagName('a');
 
 // Set results-for
 document.getElementById('results-for').innerHTML = query;
 
 // Loop through all list items, and hide those who don't match the search query
 for (i = 0; i < listItems.length; i++) {
-  txtValue = listItems[i].innerHTML;
-  if (txtValue.toUpperCase().indexOf(filter) > -1) {
+  if (listItems[i].innerHTML.toUpperCase().indexOf(filter) > -1) {
     listItems[i].style.display = '';
   } else {
     listItems[i].style.display = 'none';
