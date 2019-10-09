@@ -1,8 +1,8 @@
-var navBg = document.getElementById('nav-bg');
-var nav = document.getElementsByTagName('NAV');
-var defaultHeader = document.getElementById('defaultHeader');
-var searchHeader = document.getElementById('searchHeader');
-var header = document.getElementsByTagName('HEADER');
+const navBg = document.getElementById('nav-bg');
+const nav = document.getElementsByTagName('NAV');
+const defaultHeader = document.getElementById('defaultHeader');
+const searchHeader = document.getElementById('searchHeader');
+const header = document.getElementsByTagName('HEADER');
 var i;
 
 function openMenu() {
