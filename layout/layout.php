@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="/css/main.min.css" />
 	<meta name="theme-color" content="#fff">
   <link rel="icon" href="/favicon.ico">
-  <meta name="description" content="Schule in der digitalen Dimension - WHG-Durmersheim" />
+  <meta name="description" content="Eine Webseite für die Veranstaltung Schule in der digitalen Dimension am WHG-Durmersheim" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
@@ -39,7 +39,7 @@
 
 <?php if(isset($TPL->PageContent)) { include $TPL->PageContent; } ?>
 
-</main>
+  </main>
   <script src="/js/header.min.js" async></script>
 </body>
 </html>
