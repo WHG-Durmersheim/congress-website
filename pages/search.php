@@ -39,9 +39,5 @@ if (!isset($TPL)) {
     <h2>Datenschutzerklärung</h2>
     <p>Die Datenschutzerklärung der Website</p>
   </a>
-  <a href="/">
-    <h2>Home</h2>
-    <p>Die Hauptseite dieser Website</p>
-  </a>
 </section>
 <script src="/js/search.min.js" async></script>
