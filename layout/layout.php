@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="/css/main.min.css" />
 	<meta name="theme-color" content="#fff">
   <link rel="icon" href="/favicon.ico">
-  <meta name="description" content="TODO" />
+  <meta name="description" content="Schule in der digitalen Dimension - WHG-Durmersheim" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
