@@ -19,5 +19,5 @@ if (!isset($TPL)) {
 </p>
 <h2>Beschreibung</h2>
 <p>
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+  Auf dieser Seite finden sie am Tag des Kongresses den Livestream der Keynote und der Forumdiskussion.
 </p>
