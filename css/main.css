@@ -26,6 +26,7 @@
   display: none;
 }
 html, body {
+  scroll-behavior: smooth;
   font: 16px arial, sans-serif;
   padding: 0;
   margin: 0;
@@ -170,6 +171,10 @@ input[type=text] {
 }
 input[type=text]:focus {
   border-bottom: 2px solid var(--accent-color);
+}
+.selected {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 8px;
 }
 @media only screen and (min-width: 400px) {
   .big-display {

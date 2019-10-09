@@ -39,9 +39,31 @@ if (!isset($TPL)) {
     <h2>Datenschutzerklärung</h2>
     <p>Die Datenschutzerklärung der Website</p>
   </a>
-  <a href="/">
-    <h2>Home</h2>
-    <p>Die Hauptseite dieser Website</p>
+  <a href="/pages/timeline.php#1400">
+    <h2>14:00 - 14:15 | Einf&uuml;hrung</h2>
+    <p>
+      StD Kress SSL
+    </p>
+  </a>
+  <a href="/pages/timeline.php#1415">
+    <h2>14:15 - 15:00 | Keynote</h2>
+    <p>
+      Prof. Dr. Thissen
+    </p>
+  </a>
+  <a href="/pages/timeline.php#1500">
+    <h2>15:00 - 17:00 | Angebote</h2>
+    <p>
+      &bdquo;Digitalisierung im Fokus&rdquo;<br>
+      Anschauen, Ausprobieren, Informieren, Nachfragen
+    </p>
+  </a>
+  <a href="/pages/timeline.php#1700">
+    <h2>17:00 - 18:00 | Forum</h2>
+    <p>
+      &bdquo;Schulische Bildung im digitalen Zeitalter –  quo vadis?&rdquo;<br>
+      OStD Dornblüth, Prof. Florêncio Bonnet, Jacob (LRA RA), MdB Katzmarek, Prof. Dr. Thissen
+    </p>
   </a>
 </section>
 <script src="/js/search.min.js" async></script>
