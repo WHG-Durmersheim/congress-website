@@ -45,7 +45,7 @@ if (!isset($TPL)) {
   Angesprochen werden sollen neben Kollegen und Schulleitungen vor allem auch politische Entscheidungstr&auml;ger und Schulverwaltungsmitglieder, die durch ihr Wirken wesentliche Weichenstellungen in der Bildungslandschaft vornehmen und Entwicklungsprozesse nachhaltig beeinflussen.
 </p>
 <p class="caption">
-  <br>Bilder von <a href="https://isometric.online/license/">Isometric</a>,
-  <a href="https://unsplash.com/photos/7pT-T5YLxg4">Andres Urena auf Unsplash</a>
-  und <a href="https://unsplash.com/photos/5fNmWej4tAA">Helloquence auf Unsplash</a>
+  <br>Bilder von
+  <a href="https://unsplash.com/photos/7pT-T5YLxg4">Andres Urena auf Unsplash</a> und
+  <a href="https://unsplash.com/photos/5fNmWej4tAA">Helloquence auf Unsplash</a>
 </p>
