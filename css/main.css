@@ -130,7 +130,7 @@ h1 {
 h2 {
   margin: 1.68em 0 .42em;
 }
-p {
+p, ul {
   margin: .42em 0;
   line-height: 1.3;
   color: var(--secondary-text-color);
