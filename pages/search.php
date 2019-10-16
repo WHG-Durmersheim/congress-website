@@ -35,6 +35,10 @@ if (!isset($TPL)) {
     <h2>Anfahrt</h2>
     <p>Hier finden sie Informationen, wie sie uns erreichen können.</p>
   </a>
+  <a href="/pages/signup.php">
+    <h2>Anmeldung</h2>
+    <p>Anmeldung als Schule/Institution &uuml;ber das Medienzentrum Mittelbaden.</p>
+  </a>
   <a href="/pages/imprint.php">
     <h2>Impressum</h2>
     <p>Das Impressum dieser Website</p>
