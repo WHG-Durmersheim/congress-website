@@ -31,6 +31,10 @@ if (!isset($TPL)) {
     <h2>Livestream</h2>
     <p>Eine Seite mit dem Livestream des Kongresses.</p>
   </a>
+  <a href="/pages/journey.php">
+    <h2>Anfahrt</h2>
+    <p>Hier finden sie Informationen, wie sie uns erreichen können.</p>
+  </a>
   <a href="/pages/imprint.php">
     <h2>Impressum</h2>
     <p>Das Impressum dieser Website</p>
