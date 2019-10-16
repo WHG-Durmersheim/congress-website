@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <title><?php if(isset($TPL->PageTitle)) { echo $TPL->PageTitle; echo ' - '; } ?>Kongress</title>
   <link rel="stylesheet" type="text/css" href="/css/main.min.css" />
-	<meta name="theme-color" content="#fff">
+  <meta name="theme-color" content="#fff">
   <link rel="icon" href="/favicon.ico">
   <meta name="description" content="Eine Webseite für die Veranstaltung 'Schule in der digitalen Dimension' am WHG-Durmersheim" />
   <meta property="og:image" content="https://congress.n1kla5.live/preview.jpg">
