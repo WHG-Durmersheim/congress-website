@@ -2,11 +2,12 @@
 require_once(($_SERVER['DOCUMENT_ROOT']).'/layout/PageLayout.php');
 if (!isset($TPL)) {
   $TPL = new PageLayout();
-  $TPL->PageTitle = 'Anfahrt';
+  $TPL->PageTitle = 'Aufnahmen';
   $TPL->PageContent = __FILE__;
   include ($_SERVER['DOCUMENT_ROOT']).'/layout/layout.php';
   exit;
 }
+?>
 
 <h1>Karte</h1>
 <div id="mapdiv"></div>
