@@ -10,6 +10,6 @@ if (!isset($TPL)) {
 ?>
 <h2>Anmeldung</h2>
 <p>
-  Anmeldung als Schule oder andere Institution &uuml;ber das Medienzentrum Mittelbaden.
+  Anmeldung &uuml;ber das Medienzentrum Mittelbaden.
 </p>
 <button onclick="location.href='https://t1p.de/dd2019'" type="button">Zur Anmeldung</button>
