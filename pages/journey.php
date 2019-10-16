@@ -7,6 +7,7 @@ if (!isset($TPL)) {
   include ($_SERVER['DOCUMENT_ROOT']).'/layout/layout.php';
   exit;
 }
+?>
 
 <h1>Karte</h1>
 <div id="mapdiv"></div>
