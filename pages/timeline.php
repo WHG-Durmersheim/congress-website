@@ -19,7 +19,7 @@ if (!isset($TPL)) {
   <h2>14:15 - 15:00 | Keynote</h2>
   <p>
     Prof. Dr. Thissen<br>
-    <a href="/pages/livestream.php">Zum Livestream</a>
+    <button onclick="location.href='/pages/livestream.php'" type="button">Zum Livestream</button>
   </p>
 </div>
 <div id="1500">
@@ -34,7 +34,7 @@ if (!isset($TPL)) {
   <p>
     &bdquo;Schulische Bildung im digitalen Zeitalter –  quo vadis?&rdquo;<br>
     OStD Dornblüth, Prof. Florêncio Bonnet, Jacob (LRA RA), MdB Katzmarek, Prof. Dr. Thissen<br>
-    <a href="/pages/livestream.php">Zum Livestream</a>
+    <button onclick="location.href='/pages/livestream.php'" type="button">Zum Livestream</button>
   </p>
 </div>
 <script src="/js/selected.min.js" async></script>
