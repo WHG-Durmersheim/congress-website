@@ -64,8 +64,6 @@ function drawmap() {
 
 //]]>
     </script>
-
-  </head>
   <body onload="drawmap();">
 
   <div id="header">
