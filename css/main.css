@@ -26,6 +26,7 @@
   display: none;
 }
 html, body {
+  scroll-behavior: smooth;
   font: 16px arial, sans-serif;
   padding: 0;
   margin: 0;
@@ -129,7 +130,7 @@ h1 {
 h2 {
   margin: 1.68em 0 .42em;
 }
-p {
+p, ul {
   margin: .42em 0;
   line-height: 1.3;
   color: var(--secondary-text-color);
@@ -138,6 +139,7 @@ main {
   max-width: 720px;
   padding: 16px;
   margin: 56px auto 0;
+  animation: fadeIn .8s;
 }
 img {
   max-width: 100%;
@@ -171,11 +173,21 @@ input[type=text] {
 input[type=text]:focus {
   border-bottom: 2px solid var(--accent-color);
 }
+.selected {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 8px;
+}
 @media only screen and (min-width: 400px) {
   .big-display {
     display: inline-block;
   }
   .small-display {
     display: none;
+  }
+}
+@keyframes fadeIn {
+  0%{
+    opacity: 0;
+    transform: translateY(+25px);
   }
 }
