@@ -13,7 +13,7 @@ if (!isset($TPL)) {
 
 <p>Mit der S 4 bis Bahnhof Durmersheim. Dann etwa 10 Minuten Fußweg zur Schule.</p>
 
-<p><a href="http://www.efa-bw.de/" target="_blank">Fahrpläne (efa-bw.de)</a> und <a href="http://www.kvv.de/">Fahrpläne (kvv.de)</a></p>
+<p>Die Fahrpläne sind <a href="http://www.kvv.de/">hier (kvv.de)</a> oder über den DB-Navigator erhältlich.</p>
 
 <h3>Mit dem PKW:</h3>
 
