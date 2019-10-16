@@ -34,6 +34,7 @@
     <a class="nav-link" href="/pages/timeline.php">Zeitplan</a>
     <a class="nav-link" href="/pages/recordings.php">Aufnahmen</a>
     <a class="nav-link" href="/pages/livestream.php">Livestream</a>
+    <a class="nav-link" href="/pages/journey.php">Anfahrt</a>
     <a class="nav-link" href="/pages/imprint.php">Impressum</a>
     <a class="nav-link" href="/pages/privacy.php">Datenschutzerkl&auml;rung</a>
   </nav>
