@@ -8,6 +8,7 @@ if (!isset($TPL)) {
     exit;
 }
 ?>
+<h1>Anfahrt</h1>
 <h3>Mit öffentlichen Verkehrsmitteln</h3>
 
 <p>Mit der S 4 bis Bahnhof Durmersheim. Dann etwa 10 Minuten Fußweg zur Schule.</p>
