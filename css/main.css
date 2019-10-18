@@ -87,7 +87,7 @@ nav {
   width: 280px;
   background: #fff;
   box-shadow: 0 0 8px rgba(0,0,0,.2);
-  overflow: hidden scroll;
+  overflow: hidden auto;
   z-index: 100;
 }
 #nav-bg.nav-open {
