@@ -18,6 +18,12 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #A8A8A8;
 }
+:target:before {
+  content: "";
+  display: block;
+  height: 56px;
+  margin: -56px 0 0;
+}
 * {
   box-sizing: border-box;
   transition-duration: .25s;
