@@ -26,6 +26,7 @@
   display: none;
 }
 html, body {
+  scroll-padding-top: 112px;
   scroll-behavior: smooth;
   font: 16px arial, sans-serif;
   padding: 0;

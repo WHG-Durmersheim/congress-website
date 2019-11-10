@@ -46,7 +46,7 @@ if (!isset($TPL)) {
 </p>
 <img class="small-image" alt="Das Logo der Schülermedienmentoren" src="/images/smm_logo.jpg">
 <p class="caption">
-  <br>Diese Internetseite wurde von den Sch&uuml;lermedienmentoren erstellt<br>
+  Diese Internetseite wurde von den Sch&uuml;lermedienmentoren erstellt<br>
   <br>Bilder von
   <a href="https://unsplash.com/photos/7pT-T5YLxg4">Andres Urena auf Unsplash</a> und
   <a href="https://unsplash.com/photos/5fNmWej4tAA">Helloquence auf Unsplash</a>
