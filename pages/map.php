@@ -8,7 +8,7 @@ if (!isset($TPL)) {
   exit;
 }
 ?>
-<h2>Karte</h2>
+<h2>Raumplanung</h2>
 <style>.E{font-size:85px;fill:var(--secondary-text-color);}</style>
 <?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_0.svg'; ?>
 <?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_1.svg'; ?>
