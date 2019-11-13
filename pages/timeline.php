@@ -18,9 +18,9 @@ if (!isset($TPL)) {
 <div id="1415">
   <h2>14:15 - 15:00 | Keynote</h2>
   <p>
-    Prof. Dr. Thissen<br>
-    <button onclick="location.href='/pages/livestream.php'" type="button">Zum Livestream</button>
+    Prof. Dr. Thissen
   </p>
+  <button onclick="location.href='/pages/livestream.php'" type="button">Zum Livestream</button>
 </div>
 <div id="1500">
   <h2>15:00 - 17:00 | Angebote</h2>
@@ -33,8 +33,8 @@ if (!isset($TPL)) {
   <h2>17:00 - 18:00 | Forum</h2>
   <p>
     &bdquo;Schulische Bildung im digitalen Zeitalter –  quo vadis?&rdquo;<br>
-    OStD Dornblüth, Prof. Florêncio Bonnet, Jacob (LRA RA), MdB Katzmarek, Prof. Dr. Thissen<br>
-    <button onclick="location.href='/pages/livestream.php'" type="button">Zum Livestream</button>
+    OStD Dornblüth, Prof. Florêncio Bonnet, Jacob (LRA RA), MdB Katzmarek, Prof. Dr. Thissen
   </p>
+  <button onclick="location.href='/pages/livestream.php'" type="button">Zum Livestream</button>
 </div>
 <script src="/js/selected.min.js" async></script>
