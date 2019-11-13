@@ -80,7 +80,6 @@ if (!isset($TPL)) {
       Office 365 f&uuml;r Schule/Lehrer/Sch&uuml;ler – Schullizenz
     </p>
   </a>
-
   <a href="/pages/map.php#unknown1">
     <h2>Endoo</h2>
     <p>
