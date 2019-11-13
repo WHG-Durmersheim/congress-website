@@ -2,13 +2,13 @@
 require_once(($_SERVER['DOCUMENT_ROOT']).'/layout/PageLayout.php');
 if (!isset($TPL)) {
   $TPL = new PageLayout();
-  $TPL->PageTitle = 'Raumplanung';
+  $TPL->PageTitle = 'Raumplan';
   $TPL->PageContent = __FILE__;
   include ($_SERVER['DOCUMENT_ROOT']).'/layout/layout.php';
   exit;
 }
 ?>
-<h2>Raumplanung</h2>
+<h2>Raumplan</h2>
 <style>.E{font-size:85px;fill:var(--secondary-text-color);}</style>
 <?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_0.svg'; ?>
 <?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_1.svg'; ?>

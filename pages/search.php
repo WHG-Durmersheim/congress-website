@@ -16,7 +16,7 @@ if (!isset($TPL)) {
     <p>Die Startseite dieser Webseite mit allgemeinen Informationen zum Kongress.</p>
   </a>
   <a href="/pages/map.php">
-    <h2>Raumplanung</h2>
+    <h2>Raumplan</h2>
     <p>Eine Karte mit Informationen, was wo zu finden ist.</p>
   </a>
   <a href="/pages/timeline.php">
