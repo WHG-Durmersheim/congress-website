@@ -2,7 +2,7 @@
 require_once(($_SERVER['DOCUMENT_ROOT']).'/layout/PageLayout.php');
 if (!isset($TPL)) {
   $TPL = new PageLayout();
-  $TPL->PageTitle = 'Karte';
+  $TPL->PageTitle = 'Raumplanung';
   $TPL->PageContent = __FILE__;
   include ($_SERVER['DOCUMENT_ROOT']).'/layout/layout.php';
   exit;
@@ -28,6 +28,23 @@ if (!isset($TPL)) {
     Raum: 314<br>
     Office 365 f&uuml;r Schule/Lehrer/Sch&uuml;ler – Schullizenz
   </p>
+  <button onclick="location.href='https://www.cotec.de'" type="button">Zur Homepage</button>
+</div>
+<div id="">
+  <h2>Sdui</h2>
+  <p>
+    Raum: ???<br>
+    Einfach kommunizieren & organisieren mit der Schul-App Sdui
+  </p>
+  <button onclick="location.href='https://www.sdui.de'" type="button">Zur Homepage</button>
+</div>
+<div id="">
+  <h2>Endoo</h2>
+  <p>
+    Raum: ???<br>
+    Professionelles Schul-WLAN und Netzwerkmanagement
+  </p>
+  <button onclick="location.href='https://www.cotec.de'" type="button">Zur Homepage</button>
 </div>
 <div id="PH1">
   <h2>heinekingmedia</h2>
@@ -35,6 +52,7 @@ if (!isset($TPL)) {
     Raum: PH1<br>
     Das Digitale Schwarze Brett (DSB) als Informationsplattform mit App
   </p>
+  <button onclick="location.href='https://heinekingmedia.de'" type="button">Zur Homepage</button>
 </div>
 <div id="210">
   <h2>OctoGate</h2>
@@ -42,6 +60,7 @@ if (!isset($TPL)) {
     Raum: 210<br>
     WLAN-L&ouml;sung f&uuml;r Schulen
   </p>
+  <button onclick="location.href='http://octogate.de/de/uebersicht.html'" type="button">Zur Homepage</button>
 </div>
 <div id="311">
   <h2>RBI Rittershofer</h2>
@@ -49,6 +68,7 @@ if (!isset($TPL)) {
     Raum: 311<br>
     Medienw&auml;gen f&uuml;r die Klassenzimmer und Konferenzen
   </p>
+  <button onclick="location.href='http://rbi-rittershofer.de'" type="button">Zur Homepage</button>
 </div>
 <div id="312">
   <h2>St&uuml;ber Systems Berlin</h2>
@@ -56,6 +76,7 @@ if (!isset($TPL)) {
     Raum: 312<br>
     Kabellose Bildschirmpr&auml;sentation mit EZ-Cast Pro2
   </p>
+  <button onclick="location.href='https://www.stueber.de'" type="button">Zur Homepage</button>
 </div>
 <div id="208">
   <h2>Untis BW</h2>
@@ -64,6 +85,7 @@ if (!isset($TPL)) {
     Stunden- und Vertretungsplanung.
     Apps und Software f&uuml;r Vertretungsplan, Kommunikation und Dateientausch in Lerngruppen
   </p>
+  <button onclick="location.href='https://untis-baden-wuerttemberg.de'" type="button">Zur Homepage</button>
 </div>
 <div id="313">
   <h2>Visucom</h2>
@@ -71,6 +93,7 @@ if (!isset($TPL)) {
     Raum: 313<br>
     Klassenzimmertechnik
   </p>
+  <button onclick="location.href='https://www.visucomshop.de'" type="button">Zur Homepage</button>
 </div>
 <h2><br>Didaktik und Unterricht</h2>
 <hr>
@@ -80,6 +103,7 @@ if (!isset($TPL)) {
     Raum: 205<br>
     Schulb&uuml;cher und ihre digitalen Hilfsmittel f&uuml;r Unterrichtsvorbereitung und -durchf&uuml;hrung
   </p>
+  <button onclick="location.href='https://www.cornelsen.de'" type="button">Zur Homepage</button>
 </div>
 <div id="PH2">
   <h2>Flip the Classroom</h2>
@@ -87,6 +111,7 @@ if (!isset($TPL)) {
     Raum: PH2<br>
     Einsatz und Erstellung von Erkl&auml;rvideos im Unterricht
   </p>
+  <button onclick="location.href='https://fliptheclassroom.de'" type="button">Zur Homepage</button>
 </div>
 <div id="304">
   <h2>Hochschule der Medien Stuttgart</h2>
@@ -94,6 +119,7 @@ if (!isset($TPL)) {
     Raum: 304<br>
     Digitale Lehr- und Lernformen
   </p>
+  <button onclick="location.href='https://www.hdm-stuttgart.de'" type="button">Zur Homepage</button>
 </div>
 <div id="207">
   <h2>Klett</h2>
@@ -143,6 +169,7 @@ if (!isset($TPL)) {
     Raum: 310<br>
     Lehrfilme f&uuml;r den Unterricht zum Streamen, Downloaden und Teilen mit den Sch&uuml;lern
   </p>
+  <button onclick="location.href='https://www.lmz-bw.de/medien-und-bildung/sesam-mediathek/'" type="button">Zur Homepage</button>
 </div>
 <div id="324">
   <h2>Sch&uuml;ler berichten</h2>
@@ -173,6 +200,7 @@ if (!isset($TPL)) {
     Raum: 307<br>
     IT-Entwicklungsplan und Begleitung der Kreisschulen
   </p>
+  <button onclick="location.href='https://www.landkreis-rastatt.de'" type="button">Zur Homepage</button>
 </div>
 <div id="308">
   <h2>Medienzentrum Mittelbaden MEP</h2>
@@ -182,6 +210,7 @@ if (!isset($TPL)) {
     3D-Druck und VR.
     M&ouml;glichkeiten im Unterricht und Expertise
   </p>
+  <button onclick="location.href='https://www.mz-mittelbaden.de'" type="button">Zur Homepage</button>
 </div>
 <div id="302">
   <h2>Schulleitung</h2>
@@ -196,6 +225,7 @@ if (!isset($TPL)) {
     Raum: 303<br>
     Seminar f&uuml;r Ausbildung und Fortbildung der Lehrkr&auml;fte (Gymnasium)
   </p>
+  <button onclick="location.href='http://gym.seminar-karlsruhe.de/'" type="button">Zur Homepage</button>
 </div>
 <script src="/js/map.min.js" async></script>
 <script src="/js/selected.min.js" async></script>
