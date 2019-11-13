@@ -16,7 +16,7 @@ if (!isset($TPL)) {
     <p>Die Startseite dieser Webseite mit allgemeinen Informationen zum Kongress.</p>
   </a>
   <a href="/pages/map.php">
-    <h2>Raumplanung</h2>
+    <h2>Raumplan</h2>
     <p>Eine Karte mit Informationen, was wo zu finden ist.</p>
   </a>
   <a href="/pages/timeline.php">
@@ -80,6 +80,13 @@ if (!isset($TPL)) {
       Office 365 f&uuml;r Schule/Lehrer/Sch&uuml;ler – Schullizenz
     </p>
   </a>
+  <a href="/pages/map.php#unknown1">
+    <h2>Endoo</h2>
+    <p>
+      Raum: ???<br>
+      Professionelles Schul-WLAN und Netzwerkmanagement
+    </p>
+  </a>
   <a href="/pages/map.php#PH1">
     <h2>heinekingmedia</h2>
     <p>
@@ -99,6 +106,13 @@ if (!isset($TPL)) {
     <p>
       Raum: 311<br>
       Medienw&auml;gen f&uuml;r die Klassenzimmer und Konferenzen
+    </p>
+  </a>
+  <a href="/pages/map.php#unknown2">
+    <h2>Sdui</h2>
+    <p>
+      Raum: ???<br>
+      Einfach kommunizieren &amp; organisieren mit der Schul-App Sdui
     </p>
   </a>
   <a href="/pages/map.php#312">

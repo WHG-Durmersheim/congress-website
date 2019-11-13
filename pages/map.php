@@ -2,13 +2,13 @@
 require_once(($_SERVER['DOCUMENT_ROOT']).'/layout/PageLayout.php');
 if (!isset($TPL)) {
   $TPL = new PageLayout();
-  $TPL->PageTitle = 'Raumplanung';
+  $TPL->PageTitle = 'Raumplan';
   $TPL->PageContent = __FILE__;
   include ($_SERVER['DOCUMENT_ROOT']).'/layout/layout.php';
   exit;
 }
 ?>
-<h2>Raumplanung</h2>
+<h2>Raumplan</h2>
 <style>.E{font-size:85px;fill:var(--secondary-text-color);}</style>
 <?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_0.svg'; ?>
 <?php include ($_SERVER['DOCUMENT_ROOT']).'/images/map_1.svg'; ?>
@@ -30,15 +30,7 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='https://www.cotec.de'" type="button">Zur Homepage</button>
 </div>
-<div id="">
-  <h2>Sdui</h2>
-  <p>
-    Raum: ???<br>
-    Einfach kommunizieren & organisieren mit der Schul-App Sdui
-  </p>
-  <button onclick="location.href='https://www.sdui.de'" type="button">Zur Homepage</button>
-</div>
-<div id="">
+<div id="unknown1">
   <h2>Endoo</h2>
   <p>
     Raum: ???<br>
@@ -69,6 +61,14 @@ if (!isset($TPL)) {
     Medienw&auml;gen f&uuml;r die Klassenzimmer und Konferenzen
   </p>
   <button onclick="location.href='http://rbi-rittershofer.de'" type="button">Zur Homepage</button>
+</div>
+<div id="unknown2">
+  <h2>Sdui</h2>
+  <p>
+    Raum: ???<br>
+    Einfach kommunizieren &amp; organisieren mit der Schul-App Sdui
+  </p>
+  <button onclick="location.href='https://www.sdui.de'" type="button">Zur Homepage</button>
 </div>
 <div id="312">
   <h2>St&uuml;ber Systems Berlin</h2>
