@@ -36,7 +36,7 @@ if (!isset($TPL)) {
     Raum: ???<br>
     Professionelles Schul-WLAN und Netzwerkmanagement
   </p>
-  <button onclick="location.href='https://www.cotec.de'" type="button">Zur Homepage</button>
+  <button onclick="location.href='https://endoospot.de/'" type="button">Zur Homepage</button>
 </div>
 <div id="PH1">
   <h2>heinekingmedia</h2>
@@ -127,6 +127,7 @@ if (!isset($TPL)) {
     Raum: 207<br>
     Schulb&uuml;cher und ihre digitalen Hilfsmittel f&uuml;r Unterrichtsvorbereitung und -durchf&uuml;hrung
   </p>
+  <button onclick="location.href='https://www.klett.de/index/'" type="button">Zur Homepage</button>
 </div>
 <div id="CH1">
   <h2>Lehrer berichten | Chemie</h2>
