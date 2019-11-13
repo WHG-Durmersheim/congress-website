@@ -1,6 +1,7 @@
 const floor0 = document.getElementById('floor0');
 const floor1 = document.getElementById('floor1');
 const floor2 = document.getElementById('floor2');
+var lastElement;
 
 function showFloor0() {
   floor1.classList.add('hidden');
@@ -26,7 +27,8 @@ document.addEventListener('click', function(evt) {
       for (var i = 0; i < selectedElements.length; i++) {
         selectedElements[i].classList.remove('selected');
       }
-      document.getElementById(evt.target.parentElement.getAttribute('xlink:href').substr(1)).classList.add('selected');
-      document.getElementById(evt.target.parentElement.getAttribute('xlink:href').substr(1)).scrollIntoView();
+      lastElement = document.getElementById(evt.target.parentElement.getAttribute('xlink:href').substr(1))
+      lastElement.classList.add('selected');
+      lastElement.scrollIntoView();
     }
 }, false);
