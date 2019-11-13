@@ -30,7 +30,7 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='https://www.cotec.de'" type="button">Zur Homepage</button>
 </div>
-<div id="">
+<div id="unknown1">
   <h2>Endoo</h2>
   <p>
     Raum: ???<br>
@@ -62,7 +62,7 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='http://rbi-rittershofer.de'" type="button">Zur Homepage</button>
 </div>
-<div id="">
+<div id="unknown2">
   <h2>Sdui</h2>
   <p>
     Raum: ???<br>
