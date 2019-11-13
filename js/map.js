@@ -27,5 +27,6 @@ document.addEventListener('click', function(evt) {
         selectedElements[i].classList.remove('selected');
       }
       document.getElementById(evt.target.parentElement.getAttribute('xlink:href').substr(1)).classList.add('selected');
+      document.getElementById(evt.target.parentElement.getAttribute('xlink:href').substr(1)).scrollIntoView();
     }
 }, false);
