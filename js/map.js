@@ -19,3 +19,14 @@ function showFloor2() {
   floor1.classList.add('hidden');
   floor2.classList.remove('hidden');
 }
+
+document.addEventListener('click', function(evt) {
+    if (evt.target.tagName.toUpperCase() == 'TEXT') {
+      var selectedElements = document.getElementsByClassName('selected');
+      for (var i = 0; i < selectedElements.length; i++) {
+        selectedElements[i].classList.remove('selected');
+      }
+      document.getElementById(evt.target.parentElement.getAttribute('xlink:href').substr(1)).classList.add('selected');
+      document.getElementById(evt.target.parentElement.getAttribute('xlink:href').substr(1)).scrollIntoView();
+    }
+}, false);

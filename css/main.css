@@ -26,6 +26,7 @@
   display: none;
 }
 html, body {
+  scroll-padding-top: 112px;
   scroll-behavior: smooth;
   font: 16px arial, sans-serif;
   padding: 0;
@@ -82,11 +83,12 @@ header {
 nav {
   position: fixed;
   top: 0;
+  bottom: 0;
   left: -280px;
-  height: 100%;
   width: 280px;
   background: #fff;
   box-shadow: 0 0 8px rgba(0,0,0,.2);
+  overflow: hidden auto;
   z-index: 100;
 }
 #nav-bg.nav-open {
