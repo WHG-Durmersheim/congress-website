@@ -73,17 +73,17 @@ if (!isset($TPL)) {
       OStD Dornblüth, Prof. Florêncio Bonnet, Jacob (LRA RA), MdB Katzmarek, Prof. Dr. Thissen
     </p>
   </a>
-  <a href="/pages/map.php#314">
+  <a href="/pages/map.php#203">
     <h2>co.Tec</h2>
     <p>
-      Raum: 314<br>
+      Raum: 203<br>
       Office 365 f&uuml;r Schule/Lehrer/Sch&uuml;ler – Schullizenz
     </p>
   </a>
-  <a href="/pages/map.php#unknown1">
+  <a href="/pages/map.php#304">
     <h2>Endoo</h2>
     <p>
-      Raum: ???<br>
+      Raum: 304<br>
       Professionelles Schul-WLAN und Netzwerkmanagement
     </p>
   </a>
@@ -94,46 +94,46 @@ if (!isset($TPL)) {
       Das Digitale Schwarze Brett (DSB) als Informationsplattform mit App
     </p>
   </a>
-  <a href="/pages/map.php#210">
+  <a href="/pages/map.php#303">
     <h2>OctoGate</h2>
     <p>
-      Raum: 210<br>
+      Raum: 303<br>
       WLAN-L&ouml;sung f&uuml;r Schulen
     </p>
   </a>
-  <a href="/pages/map.php#311">
+  <a href="/pages/map.php#312">
     <h2>RBI Rittershofer</h2>
     <p>
-      Raum: 311<br>
+      Raum: 312<br>
       Medienw&auml;gen f&uuml;r die Klassenzimmer und Konferenzen
     </p>
   </a>
-  <a href="/pages/map.php#unknown2">
+  <a href="/pages/map.php#202">
     <h2>Sdui</h2>
     <p>
-      Raum: ???<br>
+      Raum: 202<br>
       Einfach kommunizieren &amp; organisieren mit der Schul-App Sdui
     </p>
   </a>
-  <a href="/pages/map.php#312">
+  <a href="/pages/map.php#313">
     <h2>St&uuml;ber Systems Berlin</h2>
     <p>
-      Raum: 312<br>
+      Raum: 313<br>
       Kabellose Bildschirmpr&auml;sentation mit EZ-Cast Pro2
     </p>
   </a>
-  <a href="/pages/map.php#208">
+  <a href="/pages/map.php#204">
     <h2>Untis BW</h2>
     <p>
-      Raum: 208<br>
+      Raum: 204<br>
       Stunden- und Vertretungsplanung.
       Apps und Software f&uuml;r Vertretungsplan, Kommunikation und Dateientausch in Lerngruppen
     </p>
   </a>
-  <a href="/pages/map.php#313">
+  <a href="/pages/map.php#314">
     <h2>Visucom</h2>
     <p>
-      Raum: 313<br>
+      Raum: 314<br>
       Klassenzimmertechnik
     </p>
   </a>
@@ -151,13 +151,6 @@ if (!isset($TPL)) {
       Einsatz und Erstellung von Erkl&auml;rvideos im Unterricht
     </p>
   </a>
-  <a href="/pages/map.php#304">
-    <h2>Hochschule der Medien Stuttgart</h2>
-    <p>
-      Raum: 304<br>
-      Digitale Lehr- und Lernformen
-    </p>
-  </a>
   <a href="/pages/map.php#207">
     <h2>Klett</h2>
     <p>
@@ -169,13 +162,6 @@ if (!isset($TPL)) {
     <h2>Lehrer berichten | Chemie</h2>
     <p>
       Raum: CH1<br>
-      Best Practice aus dem Unterrichtsalltag
-    </p>
-  </a>
-  <a href="/pages/map.php#CH2">
-    <h2>Lehrer berichten | Englisch</h2>
-    <p>
-      Raum: CH2<br>
       Best Practice aus dem Unterrichtsalltag
     </p>
   </a>
@@ -198,6 +184,14 @@ if (!isset($TPL)) {
     <p>
       Raum: 325<br>
       Best Practice aus dem Unterrichtsalltag
+    </p>
+  </a>
+  <a href="/pages/map.php#302">
+    <h2>Lernplattformen und Apps im Einsatz</h2>
+    <p>
+      Raum: 302<br>
+      Wie können Kompetenzen mit digitalen Anwendungen gefördert werden?
+      Welche Rolle spielen Lernplattformen?
     </p>
   </a>
   <a href="/pages/map.php#310">
@@ -228,10 +222,10 @@ if (!isset($TPL)) {
       Fortbildungskonzept, Implementierung digitaler Arbeitsfomen, Wartung, Fortbildung, Gestaltung
     </p>
   </a>
-  <a href="/pages/map.php#307">
+  <a href="/pages/map.php#311">
     <h2>LRA Rastatt</h2>
     <p>
-      Raum: 307<br>
+      Raum: 311<br>
       IT-Entwicklungsplan und Begleitung der Kreisschulen
     </p>
   </a>
@@ -242,13 +236,6 @@ if (!isset($TPL)) {
       Inhalte und Erstellung eines Medienentwicklungsplans am Beispiel des WHGs.
       3D-Druck und VR.
       M&ouml;glichkeiten im Unterricht und Expertise
-    </p>
-  </a>
-  <a href="/pages/map.php#302">
-    <h2>Schulleitung</h2>
-    <p>
-      Raum: 302<br>
-      Digitalisierung im Kontext des allgemeinen Bildungsauftrags am Gymnasium
     </p>
   </a>
   <a href="/pages/map.php#303">

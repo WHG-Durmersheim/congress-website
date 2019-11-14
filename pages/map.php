@@ -22,18 +22,18 @@ if (!isset($TPL)) {
 <h2>Aussteller</h2>
 <h2><br>Technische Umsetzung</h2>
 <hr>
-<div id="314">
+<div id="203">
   <h2>co.Tec</h2>
   <p>
-    Raum: 314<br>
+    Raum: 203<br>
     Office 365 f&uuml;r Schule/Lehrer/Sch&uuml;ler – Schullizenz
   </p>
   <button onclick="location.href='https://www.cotec.de'" type="button">Zur Homepage</button>
 </div>
-<div id="unknown1">
+<div id="304">
   <h2>Endoo</h2>
   <p>
-    Raum: ???<br>
+    Raum: 304<br>
     Professionelles Schul-WLAN und Netzwerkmanagement
   </p>
   <button onclick="location.href='https://endoospot.de/'" type="button">Zur Homepage</button>
@@ -46,51 +46,51 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='https://heinekingmedia.de'" type="button">Zur Homepage</button>
 </div>
-<div id="210">
+<div id="303">
   <h2>OctoGate</h2>
   <p>
-    Raum: 210<br>
+    Raum: 303<br>
     WLAN-L&ouml;sung f&uuml;r Schulen
   </p>
   <button onclick="location.href='http://octogate.de/de/uebersicht.html'" type="button">Zur Homepage</button>
 </div>
-<div id="311">
+<div id="312">
   <h2>RBI Rittershofer</h2>
   <p>
-    Raum: 311<br>
+    Raum: 312<br>
     Medienw&auml;gen f&uuml;r die Klassenzimmer und Konferenzen
   </p>
   <button onclick="location.href='http://rbi-rittershofer.de'" type="button">Zur Homepage</button>
 </div>
-<div id="unknown2">
+<div id="202">
   <h2>Sdui</h2>
   <p>
-    Raum: ???<br>
+    Raum: 202<br>
     Einfach kommunizieren &amp; organisieren mit der Schul-App Sdui
   </p>
   <button onclick="location.href='https://www.sdui.de'" type="button">Zur Homepage</button>
 </div>
-<div id="312">
+<div id="313">
   <h2>St&uuml;ber Systems Berlin</h2>
   <p>
-    Raum: 312<br>
+    Raum: 313<br>
     Kabellose Bildschirmpr&auml;sentation mit EZ-Cast Pro2
   </p>
   <button onclick="location.href='https://www.stueber.de'" type="button">Zur Homepage</button>
 </div>
-<div id="208">
+<div id="204">
   <h2>Untis BW</h2>
   <p>
-    Raum: 208<br>
+    Raum: 204<br>
     Stunden- und Vertretungsplanung.
     Apps und Software f&uuml;r Vertretungsplan, Kommunikation und Dateientausch in Lerngruppen
   </p>
   <button onclick="location.href='https://untis-baden-wuerttemberg.de'" type="button">Zur Homepage</button>
 </div>
-<div id="313">
+<div id="314">
   <h2>Visucom</h2>
   <p>
-    Raum: 313<br>
+    Raum: 314<br>
     Klassenzimmertechnik
   </p>
   <button onclick="location.href='https://www.visucomshop.de'" type="button">Zur Homepage</button>
@@ -113,14 +113,6 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='https://fliptheclassroom.de'" type="button">Zur Homepage</button>
 </div>
-<div id="304">
-  <h2>Hochschule der Medien Stuttgart</h2>
-  <p>
-    Raum: 304<br>
-    Digitale Lehr- und Lernformen
-  </p>
-  <button onclick="location.href='https://www.hdm-stuttgart.de'" type="button">Zur Homepage</button>
-</div>
 <div id="207">
   <h2>Klett</h2>
   <p>
@@ -133,13 +125,6 @@ if (!isset($TPL)) {
   <h2>Lehrer berichten | Chemie</h2>
   <p>
     Raum: CH1<br>
-    Best Practice aus dem Unterrichtsalltag
-  </p>
-</div>
-<div id="CH2">
-  <h2>Lehrer berichten | Englisch</h2>
-  <p>
-    Raum: CH2<br>
     Best Practice aus dem Unterrichtsalltag
   </p>
 </div>
@@ -162,6 +147,14 @@ if (!isset($TPL)) {
   <p>
     Raum: 325<br>
     Best Practice aus dem Unterrichtsalltag
+  </p>
+</div>
+<div id="302">
+  <h2>Lernplattformen und Apps im Einsatz</h2>
+  <p>
+    Raum: 302<br>
+    Wie können Kompetenzen mit digitalen Anwendungen gefördert werden?
+    Welche Rolle spielen Lernplattformen?
   </p>
 </div>
 <div id="310">
@@ -195,10 +188,10 @@ if (!isset($TPL)) {
     Fortbildungskonzept, Implementierung digitaler Arbeitsfomen, Wartung, Fortbildung, Gestaltung
   </p>
 </div>
-<div id="307">
+<div id="311">
   <h2>LRA Rastatt</h2>
   <p>
-    Raum: 307<br>
+    Raum: 311<br>
     IT-Entwicklungsplan und Begleitung der Kreisschulen
   </p>
   <button onclick="location.href='https://www.landkreis-rastatt.de'" type="button">Zur Homepage</button>
@@ -212,13 +205,6 @@ if (!isset($TPL)) {
     M&ouml;glichkeiten im Unterricht und Expertise
   </p>
   <button onclick="location.href='https://www.mz-mittelbaden.de'" type="button">Zur Homepage</button>
-</div>
-<div id="302">
-  <h2>Schulleitung</h2>
-  <p>
-    Raum: 302<br>
-    Digitalisierung im Kontext des allgemeinen Bildungsauftrags am Gymnasium
-  </p>
 </div>
 <div id="303">
   <h2>Studienseminar Karlsruhe</h2>
