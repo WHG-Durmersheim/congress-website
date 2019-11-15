@@ -30,10 +30,10 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='https://www.cotec.de'" type="button">Zur Homepage</button>
 </div>
-<div id="304">
+<div id="308">
   <h2>Endoo</h2>
   <p>
-    Raum: 304<br>
+    Raum: 308<br>
     Professionelles Schul-WLAN und Netzwerkmanagement
   </p>
   <button onclick="location.href='https://endoospot.de/'" type="button">Zur Homepage</button>
@@ -46,10 +46,10 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='https://heinekingmedia.de'" type="button">Zur Homepage</button>
 </div>
-<div id="303">
+<div id="310">
   <h2>OctoGate</h2>
   <p>
-    Raum: 303<br>
+    Raum: 310<br>
     WLAN-L&ouml;sung f&uuml;r Schulen
   </p>
   <button onclick="location.href='http://octogate.de/de/uebersicht.html'" type="button">Zur Homepage</button>
@@ -62,10 +62,10 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='http://rbi-rittershofer.de'" type="button">Zur Homepage</button>
 </div>
-<div id="202">
+<div id="303">
   <h2>Sdui</h2>
   <p>
-    Raum: 202<br>
+    Raum: 303<br>
     Einfach kommunizieren &amp; organisieren mit der Schul-App Sdui
   </p>
   <button onclick="location.href='https://www.sdui.de'" type="button">Zur Homepage</button>
@@ -157,10 +157,10 @@ if (!isset($TPL)) {
     Welche Rolle spielen Lernplattformen?
   </p>
 </div>
-<div id="310">
+<div id="CO1">
   <h2>Medienzentrum Mittelbaden SESAM</h2>
   <p>
-    Raum: 310<br>
+    Raum: CO1<br>
     Lehrfilme f&uuml;r den Unterricht zum Streamen, Downloaden und Teilen mit den Sch&uuml;lern
   </p>
   <button onclick="location.href='https://www.lmz-bw.de/medien-und-bildung/sesam-mediathek/'" type="button">Zur Homepage</button>
@@ -196,23 +196,15 @@ if (!isset($TPL)) {
   </p>
   <button onclick="location.href='https://www.landkreis-rastatt.de'" type="button">Zur Homepage</button>
 </div>
-<div id="308">
+<div id="304">
   <h2>Medienzentrum Mittelbaden MEP</h2>
   <p>
-    Raum: 308<br>
+    Raum: 304<br>
     Inhalte und Erstellung eines Medienentwicklungsplans am Beispiel des WHGs.
     3D-Druck und VR.
     M&ouml;glichkeiten im Unterricht und Expertise
   </p>
   <button onclick="location.href='https://www.mz-mittelbaden.de'" type="button">Zur Homepage</button>
-</div>
-<div id="303">
-  <h2>Studienseminar Karlsruhe</h2>
-  <p>
-    Raum: 303<br>
-    Seminar f&uuml;r Ausbildung und Fortbildung der Lehrkr&auml;fte (Gymnasium)
-  </p>
-  <button onclick="location.href='http://gym.seminar-karlsruhe.de/'" type="button">Zur Homepage</button>
 </div>
 <script src="/js/map.min.js" async></script>
 <script src="/js/selected.min.js" async></script>
