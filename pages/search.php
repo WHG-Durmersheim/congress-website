@@ -80,10 +80,10 @@ if (!isset($TPL)) {
       Office 365 f&uuml;r Schule/Lehrer/Sch&uuml;ler – Schullizenz
     </p>
   </a>
-  <a href="/pages/map.php#304">
+  <a href="/pages/map.php#308">
     <h2>Endoo</h2>
     <p>
-      Raum: 304<br>
+      Raum: 308<br>
       Professionelles Schul-WLAN und Netzwerkmanagement
     </p>
   </a>
@@ -94,10 +94,10 @@ if (!isset($TPL)) {
       Das Digitale Schwarze Brett (DSB) als Informationsplattform mit App
     </p>
   </a>
-  <a href="/pages/map.php#303">
+  <a href="/pages/map.php#310">
     <h2>OctoGate</h2>
     <p>
-      Raum: 303<br>
+      Raum: 310<br>
       WLAN-L&ouml;sung f&uuml;r Schulen
     </p>
   </a>
@@ -108,10 +108,10 @@ if (!isset($TPL)) {
       Medienw&auml;gen f&uuml;r die Klassenzimmer und Konferenzen
     </p>
   </a>
-  <a href="/pages/map.php#202">
+  <a href="/pages/map.php#303">
     <h2>Sdui</h2>
     <p>
-      Raum: 202<br>
+      Raum: 303<br>
       Einfach kommunizieren &amp; organisieren mit der Schul-App Sdui
     </p>
   </a>
@@ -194,10 +194,10 @@ if (!isset($TPL)) {
       Welche Rolle spielen Lernplattformen?
     </p>
   </a>
-  <a href="/pages/map.php#310">
+  <a href="/pages/map.php#CO1">
     <h2>Medienzentrum Mittelbaden SESAM</h2>
     <p>
-      Raum: 310<br>
+      Raum: CO1<br>
       Lehrfilme f&uuml;r den Unterricht zum Streamen, Downloaden und Teilen mit den Sch&uuml;lern
     </p>
   </a>
@@ -229,20 +229,13 @@ if (!isset($TPL)) {
       IT-Entwicklungsplan und Begleitung der Kreisschulen
     </p>
   </a>
-  <a href="/pages/map.php#308">
+  <a href="/pages/map.php#304">
     <h2>Medienzentrum Mittelbaden MEP</h2>
     <p>
-      Raum: 308<br>
+      Raum: 304<br>
       Inhalte und Erstellung eines Medienentwicklungsplans am Beispiel des WHGs.
       3D-Druck und VR.
       M&ouml;glichkeiten im Unterricht und Expertise
-    </p>
-  </a>
-  <a href="/pages/map.php#303">
-    <h2>Studienseminar Karlsruhe</h2>
-    <p>
-      Raum: 303<br>
-      Seminar f&uuml;r Ausbildung und Fortbildung der Lehrkr&auml;fte (Gymnasium)
     </p>
   </a>
 </section>
