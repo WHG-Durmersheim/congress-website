@@ -14,7 +14,7 @@ if (!isset($TPL)) {
 <h2>Livestream</h2>
 <p>
   <video title="Livestream" id="player" class="video video-js vjs-default-skin" controls preload="none">
-    <source src="http://116.203.221.72:8080/hls/stream.m3u8" type="application/x-mpegURL" />
+    <iframe src="https://www.youtube.com/embed/tOka_pCUXAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </video>
 </p>
 <h2>Beschreibung</h2>
