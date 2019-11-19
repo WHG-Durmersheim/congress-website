@@ -8,12 +8,10 @@ if (!isset($TPL)) {
   exit;
 }
 ?>
-<link href="//vjs.zencdn.net/5.8/video-js.min.css" rel="stylesheet">
-<script src="//vjs.zencdn.net/5.8/video.min.js"></script>
 <style><?php include($_SERVER['DOCUMENT_ROOT']).'/css/video.min.css'; ?></style>
 <h2>Livestream</h2>
 <p>
-    <iframe src="https://www.youtube.com/embed/tOka_pCUXAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Livestream" class="video" src="https://www.youtube.com/embed/tOka_pCUXAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <h2>Beschreibung</h2>
 <p>
