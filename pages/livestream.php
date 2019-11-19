@@ -13,9 +13,7 @@ if (!isset($TPL)) {
 <style><?php include($_SERVER['DOCUMENT_ROOT']).'/css/video.min.css'; ?></style>
 <h2>Livestream</h2>
 <p>
-  <video title="Livestream" id="player">
     <iframe src="https://www.youtube.com/embed/tOka_pCUXAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </video>
 </p>
 <h2>Beschreibung</h2>
 <p>
